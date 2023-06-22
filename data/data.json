@@ -1,0 +1,427 @@
+[
+    {
+        "_id": 1,
+        "chef_picture": "https://img.freepik.com/free-photo/japanese-woman-posing-restaurant_23-2149319388.jpg?w=360&t=st=1683061916~exp=1683062516~hmac=8d7b00c5408770a2fff04dcb32823b0279cafd79c418d90f8a2b6a06c9bc611f",
+        "chef_name": "Li Ming",
+        "bio": "Li Ming is a Chinese chef with over 15 years of experience in the culinary industry. He specializes in Sichuan cuisine and is known for his spicy and flavorful dishes.",
+        "years_of_experience": 15,
+        "num_recipes": 3,
+        "likes": 8000,
+        "banner_img": "https://img.freepik.com/free-photo/tomatoes-tomatoes-lemon-leaves-garlic-bottle-oil-tree-branches_140725-74118.jpg?w=740&t=st=1683102139~exp=1683102739~hmac=8bcabe7c136ee02b839d445db8f74f6c1c5cb6ae5e0d61e9c2d2610e879c961c",
+        "recipes": [
+            {
+                "_rid": 11,
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 pound boneless, skinless chicken breast, cut into small cubes",
+                    "1 red bell pepper, diced",
+                    "1 green bell pepper, diced",
+                    "1/2 cup roasted peanuts",
+                    "4 dried red chili peppers"
+                ],
+                "cooking_method": "1. In a bowl, mix together the chicken, soy sauce, rice wine, cornstarch, and sugar. Set aside. 2. Heat oil in a wok or large skillet over high heat. 3. Add the dried chili peppers and stir-fry until fragrant. 4. Add the chicken and stir-fry until lightly browned. 5. Add the bell peppers and continue to stir-fry until the chicken is cooked through and the bell peppers are slightly softened. 6. Add the peanuts and stir-fry for another minute. 7. Serve over steamed rice.",
+                "rating": 4.8
+            },
+            {
+                "_rid": 12,
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "1 block of firm tofu, cut into small cubes",
+                    "1/4 pound ground pork",
+                    "2 tablespoons doubanjiang (spicy bean paste)",
+                    "2 cloves garlic, minced",
+                    "2 green onions, chopped"
+                ],
+                "cooking_method": "1. Heat oil in a wok or large skillet over high heat. 2. Add the ground pork and stir-fry until browned. 3. Add the garlic and doubanjiang and stir-fry until fragrant. 4. Add the tofu and stir gently to coat with the sauce. 5. Add water and bring to a simmer. 6. Simmer for 5-7 minutes, until the sauce has thickened slightly and the tofu is heated through. 7. Garnish with chopped green onions and serve over steamed rice.",
+                "rating": 4.6
+            },
+            {
+                "_rid": 13,
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups chicken broth",
+                    "1/2 cup bamboo shoots, sliced",
+                    "1/2 cup shiitake mushrooms, sliced",
+                    "1/4 cup rice vinegar",
+                    "1 tablespoon soy sauce"
+                ],
+                "cooking_method": "1. In a large pot, bring the chicken broth to a boil. 2. Add the bamboo shoots and shiitake mushrooms and simmer for 5 minutes. 3. In a small bowl, whisk together the cornstarch and water to make a slurry. 4. Add the slurry to the pot and stir until the soup thickens slightly. 5. Add the rice vinegar, soy sauce, and white pepper. 6. In a small bowl, beat the egg. 7. Slowly pour the beaten egg into the soup while stirring gently. 8. Garnish with chopped green onions and serve hot.",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-young-male-baker-with-his-arms-crossed-looking-camera_23-2148189025.jpg?w=360&t=st=1683062460~exp=1683063060~hmac=130d5607fe467f6c3b97b1cba2b8bbd3e037aa432ba86731bf24a3e5cc3800a8",
+        "chef_name": "Zhang Wei",
+        "bio": "Zhang Wei is a renowned Chinese chef with over 20 years of experience in various regional cuisines including Cantonese, Hunan, and Sichuan. He is known for his innovative and creative approach to traditional Chinese dishes.",
+        "years_of_experience": 20,
+        "num_recipes": 4,
+        "likes": 12000,
+        "banner_img": "https://img.freepik.com/free-vector/watercolor-thanksgiving-day-background-theme_23-2148676194.jpg?w=740&t=st=1683102173~exp=1683102773~hmac=26938544187557e3f0db2adaabd35cde94d6095d3e5031b76ac6cb8d3336f958",
+        "recipes": [
+            {
+                "_rid": 21,
+                "recipe_name": "Hunan-style Spicy Beef Noodle Soup",
+                "ingredients": [
+                    "1 pound beef shank, cut into small pieces",
+                    "1 tablespoon Sichuan peppercorns",
+                    "1 tablespoon chili bean sauce",
+                    "1 tablespoon sesame oil",
+                    "2 cloves garlic, minced"
+                ],
+                "cooking_method": "1. In a pot, bring 8 cups of water to a boil. 2. Add the beef and cook for 2 minutes. 3. Drain the beef and rinse under cold water. 4. In a wok or large skillet, heat the sesame oil over medium-high heat. 5. Add the garlic, Sichuan peppercorns, and chili bean sauce and stir-fry for 1 minute. 6. Add the beef and stir-fry until browned. 7. Add the beef and the sauce to the pot of boiling water. 8. Simmer for 1 hour. 9. Cook the noodles according to package instructions. 10. Serve the soup with the cooked noodles and garnish with sliced green onions.",
+                "rating": 4.9
+            },
+            {
+                "_rid": 22,
+                "recipe_name": "Cantonese-style Char Siu Pork",
+                "ingredients": [
+                    "1 pound boneless pork shoulder, cut into thin slices",
+                    "2 tablespoons hoisin sauce",
+                    "2 tablespoons honey",
+                    "2 tablespoons soy sauce",
+                    "2 cloves garlic, minced"
+                ],
+                "cooking_method": "1. In a bowl, mix together the hoisin sauce, honey, soy sauce, and garlic. 2. Add the pork slices and mix well to coat. 3. Cover and refrigerate for at least 2 hours or overnight. 4. Preheat the oven to 375°F. 5. Line a baking sheet with foil and place a wire rack on top. 6. Arrange the pork slices on the wire rack. 7. Roast for 20-25 minutes, until the pork is caramelized and cooked through. 8. Let the pork rest for 5 minutes before slicing. 9. Serve with steamed rice and stir-fried vegetables.",
+                "rating": 4.7
+            },
+            {
+                "_rid": 23,
+                "recipe_name": "Cantonese-style Char Siu Pork",
+                "ingredients": [
+                    "1 pound boneless pork shoulder, cut into thin slices",
+                    "2 tablespoons hoisin sauce",
+                    "2 tablespoons honey",
+                    "2 tablespoons soy sauce",
+                    "2 cloves garlic, minced"
+                ],
+                "cooking_method": "1. In a bowl, mix together the hoisin sauce, honey, soy sauce, and garlic. 2. Add the pork slices and mix well to coat. 3. Cover and refrigerate for at least 2 hours or overnight. 4. Preheat the oven to 375°F. 5. Line a baking sheet with foil and place a wire rack on top. 6. Arrange the pork slices on the wire rack. 7. Roast for 20-25 minutes, until the pork is caramelized and cooked through. 8. Let the pork rest for 5 minutes before slicing. 9. Serve with steamed rice and stir-fried vegetables.",
+                "rating": 4.7
+            },
+            {
+                "_rid": 24,
+                "recipe_name": "Sichuan-style Dan Dan Noodles",
+                "ingredients": [
+                    "1/2 pound ground pork",
+                    "1 tablespoon Sichuan peppercorns",
+                    "2 tablespoons chili oil",
+                    "2 cloves garlic, minced",
+                    "1/4 cup soy sauce"
+                ],
+                "cooking_method": "1. Cook the noodles according to package instructions. 2. Drain and set aside. 3. In a wok or large skillet, heat the chili oil over medium-high heat. 4. Add the garlic and Sichuan peppercorns and stir-fry for 1 minute. 5. Add the ground pork and stir-fry until browned. 6. Add the soy sauce and stir well to combine. 7. Add the cooked noodles to the wok and toss well to coat with the sauce. 8. Serve hot with chopped green onions and cilantro.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "chef_picture": "https://img.freepik.com/free-photo/asian-handsome-man-cooking-home_1157-47507.jpg?w=360&t=st=1683062525~exp=1683063125~hmac=144994b47688262c1d40720cac94f4528d78407a644585b145c3a084ebe2fd25",
+        "chef_name": "Li Ching",
+        "bio": "Li Ching is a renowned chef with over 30 years of experience in Sichuan cuisine. He is known for his spicy and flavorful dishes that reflect his roots in Chengdu.",
+        "years_of_experience": 30,
+        "num_recipes": 5,
+        "likes": 18000,
+        "banner_img": "https://img.freepik.com/free-vector/watercolor-thanksgiving-day-background-theme_23-2148676194.jpg?w=740&t=st=1683102173~exp=1683102773~hmac=26938544187557e3f0db2adaabd35cde94d6095d3e5031b76ac6cb8d3336f958",
+        "recipes": [
+            {
+                "_rid": 31,
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "2 boneless chicken breasts",
+                    "2 tablespoons vegetable oil",
+                    "1/2 cup roasted peanuts",
+                    "6 dried red chili peppers",
+                    "3 cloves garlic, minced",
+                    "1 teaspoon Sichuan peppercorns",
+                    "2 green onions, chopped"
+                ],
+                "cooking_method": "1. Cut the chicken into small cubes and marinate in a mixture of soy sauce, rice wine, and cornstarch for 30 minutes. 2. Heat the oil in a wok over high heat. Add the chicken and stir-fry until browned. 3. Add the garlic, chili peppers, and Sichuan peppercorns and stir-fry for 1 minute. 4. Add the roasted peanuts and green onions and stir-fry for another minute. 5. Serve hot with rice.",
+                "rating": 4.8
+            },
+            {
+                "_rid": 32,
+                "recipe_name": "Ma Po Tofu",
+                "ingredients": [
+                    "1 block firm tofu",
+                    "2 tablespoons vegetable oil",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon Sichuan bean paste",
+                    "1 tablespoon fermented black beans, rinsed and chopped",
+                    "1 teaspoon Sichuan peppercorns",
+                    "1/2 cup chicken broth"
+                ],
+                "cooking_method": "1. Cut the tofu into small cubes and set aside. 2. Heat the oil in a wok over high heat. Add the garlic, bean paste, black beans, and Sichuan peppercorns and stir-fry for 1 minute. 3. Add the chicken broth and tofu and simmer for 5 minutes. 4. Serve hot with rice.",
+                "rating": 4.9
+            },
+            {
+                "_rid": 33,
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "2 boneless chicken breasts",
+                    "2 tablespoons vegetable oil",
+                    "1/2 cup roasted peanuts",
+                    "6 dried red chili peppers",
+                    "3 cloves garlic, minced",
+                    "1 teaspoon Sichuan peppercorns",
+                    "2 green onions, chopped"
+                ],
+                "cooking_method": "1. Cut the chicken into small cubes and marinate in a mixture of soy sauce, rice wine, and cornstarch for 30 minutes. 2. Heat the oil in a wok over high heat. Add the chicken and stir-fry until browned. 3. Add the garlic, chili peppers, and Sichuan peppercorns and stir-fry for 1 minute. 4. Add the roasted peanuts and green onions and stir-fry for another minute. 5. Serve hot with rice.",
+                "rating": 4.8
+            },
+            {
+                "_rid": 34,
+                "recipe_name": "Ma Po Tofu",
+                "ingredients": [
+                    "1 block firm tofu",
+                    "2 tablespoons vegetable oil",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon Sichuan bean paste",
+                    "1 tablespoon fermented black beans, rinsed and chopped",
+                    "1 teaspoon Sichuan peppercorns",
+                    "1/2 cup chicken broth"
+                ],
+                "cooking_method": "1. Cut the tofu into small cubes and set aside. 2. Heat the oil in a wok over high heat. Add the garlic, bean paste, black beans, and Sichuan peppercorns and stir-fry for 1 minute. 3. Add the chicken broth and tofu and simmer for 5 minutes. 4. Serve hot with rice.",
+                "rating": 4.9
+            },
+            {
+                "_rid": 35,
+                "recipe_name": "Dan Dan Noodles",
+                "ingredients": [
+                    "8 oz. fresh Chinese noodles",
+                    "2 tablespoons vegetable oil",
+                    "3 cloves garlic, minced",
+                    "1/4 cup ground pork",
+                    "2 tablespoons Sichuan bean paste",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon black vinegar"
+                ],
+                "cooking_method": "1. Cook the noodles according to package instructions and set aside. 2. Heat the oil in a wok over high heat. Add the garlic and stir-fry until fragrant. 3. Add the ground pork and stir-fry until browned. 4. Add the bean paste, soy sauce, and black vinegar and stir-fry for 1 minute. 5. Serve the sauce over the cooked noodles.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "chef_picture": "https://img.freepik.com/free-photo/person-cooking-japanese-food_23-2149366815.jpg?w=360&t=st=1683062066~exp=1683062666~hmac=733d123cf26caf233bc3d3092c3ec9795afcb4423e47b7d95f5a2c6d0e1f0e75",
+        "chef_name": "Ko Jung",
+        "bio": "Ko Jung is a renowned chef with over 30 years of experience in Sichuan cuisine. He is known for his spicy and flavorful dishes that reflect his roots in Chengdu.",
+        "years_of_experience": 30,
+        "num_recipes": 6,
+        "likes": 18000,
+        "banner_img": "https://img.freepik.com/free-photo/white-border-frame-with-chopsticks-thai-traditional-food-wooden-desk_23-2148093488.jpg?w=740&t=st=1683102312~exp=1683102912~hmac=b6327cadd04b36fdaaae3e15160015d2c9341a6a3f39437fb66479eaf9811a86",
+        "recipes": [
+            {
+                "_rid": 41,
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "2 boneless chicken breasts",
+                    "2 tablespoons vegetable oil",
+                    "1/2 cup roasted peanuts",
+                    "6 dried red chili peppers",
+                    "3 cloves garlic, minced",
+                    "1 teaspoon Sichuan peppercorns",
+                    "2 green onions, chopped"
+                ],
+                "cooking_method": "1. Cut the chicken into small cubes and marinate in a mixture of soy sauce, rice wine, and cornstarch for 30 minutes. 2. Heat the oil in a wok over high heat. Add the chicken and stir-fry until browned. 3. Add the garlic, chili peppers, and Sichuan peppercorns and stir-fry for 1 minute. 4. Add the roasted peanuts and green onions and stir-fry for another minute. 5. Serve hot with rice.",
+                "rating": 4.8
+            },
+            {
+                "_rid": 42,
+                "recipe_name": "Ma Po Tofu",
+                "ingredients": [
+                    "1 block firm tofu",
+                    "2 tablespoons vegetable oil",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon Sichuan bean paste",
+                    "1 tablespoon fermented black beans, rinsed and chopped",
+                    "1 teaspoon Sichuan peppercorns",
+                    "1/2 cup chicken broth"
+                ],
+                "cooking_method": "1. Cut the tofu into small cubes and set aside. 2. Heat the oil in a wok over high heat. Add the garlic, bean paste, black beans, and Sichuan peppercorns and stir-fry for 1 minute. 3. Add the chicken broth and tofu and simmer for 5 minutes. 4. Serve hot with rice.",
+                "rating": 4.9
+            },
+            {
+                "_rid": 43,
+                "recipe_name": "Dan Dan Noodles",
+                "ingredients": [
+                    "8 oz. fresh Chinese noodles",
+                    "2 tablespoons vegetable oil",
+                    "3 cloves garlic, minced",
+                    "1/4 cup ground pork",
+                    "2 tablespoons Sichuan bean paste",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon black vinegar"
+                ],
+                "cooking_method": "1. Cook the noodles according to package instructions and set aside. 2. Heat the oil in a wok over high heat. Add the garlic and stir-fry until fragrant. 3. Add the ground pork and stir-fry until browned. 4. Add the bean paste, soy sauce, and black vinegar and stir-fry for 1 minute. 5. Serve the sauce over the cooked noodles.",
+                "rating": 4.7
+            },
+            {
+                "_rid": 44,
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "2 boneless chicken breasts",
+                    "2 tablespoons vegetable oil",
+                    "1/2 cup roasted peanuts",
+                    "6 dried red chili peppers",
+                    "3 cloves garlic, minced",
+                    "1 teaspoon Sichuan peppercorns",
+                    "2 green onions, chopped"
+                ],
+                "cooking_method": "1. Cut the chicken into small cubes and marinate in a mixture of soy sauce, rice wine, and cornstarch for 30 minutes. 2. Heat the oil in a wok over high heat. Add the chicken and stir-fry until browned. 3. Add the garlic, chili peppers, and Sichuan peppercorns and stir-fry for 1 minute. 4. Add the roasted peanuts and green onions and stir-fry for another minute. 5. Serve hot with rice.",
+                "rating": 4.8
+            },
+            {
+                "_rid": 45,
+                "recipe_name": "Ma Po Tofu",
+                "ingredients": [
+                    "1 block firm tofu",
+                    "2 tablespoons vegetable oil",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon Sichuan bean paste",
+                    "1 tablespoon fermented black beans, rinsed and chopped",
+                    "1 teaspoon Sichuan peppercorns",
+                    "1/2 cup chicken broth"
+                ],
+                "cooking_method": "1. Cut the tofu into small cubes and set aside. 2. Heat the oil in a wok over high heat. Add the garlic, bean paste, black beans, and Sichuan peppercorns and stir-fry for 1 minute. 3. Add the chicken broth and tofu and simmer for 5 minutes. 4. Serve hot with rice.",
+                "rating": 4.9
+            },
+            {
+                "_rid": 46,
+                "recipe_name": "Dan Dan Noodles",
+                "ingredients": [
+                    "8 oz. fresh Chinese noodles",
+                    "2 tablespoons vegetable oil",
+                    "3 cloves garlic, minced",
+                    "1/4 cup ground pork",
+                    "2 tablespoons Sichuan bean paste",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon black vinegar"
+                ],
+                "cooking_method": "1. Cook the noodles according to package instructions and set aside. 2. Heat the oil in a wok over high heat. Add the garlic and stir-fry until fragrant. 3. Add the ground pork and stir-fry until browned. 4. Add the bean paste, soy sauce, and black vinegar and stir-fry for 1 minute. 5. Serve the sauce over the cooked noodles.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "_id": 5,
+        "chef_picture": "https://img.freepik.com/premium-photo/portrait-asian-smiling-chef_8595-21378.jpg?w=360",
+        "chef_name": "Li Ming",
+        "bio": "Li Ming is a Chinese chef with over 15 years of experience in the culinary industry. He specializes in Sichuan cuisine and is known for his spicy and flavorful dishes.",
+        "years_of_experience": 15,
+        "num_recipes": 4,
+        "likes": 8000,
+        "banner_img": "https://img.freepik.com/premium-photo/set-korean-dishes_233226-1326.jpg?w=900",
+        "recipes": [
+            {
+                "_rid": 51,
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 pound boneless, skinless chicken breast, cut into small cubes",
+                    "1 red bell pepper, diced",
+                    "1 green bell pepper, diced",
+                    "1/2 cup roasted peanuts",
+                    "4 dried red chili peppers"
+                ],
+                "cooking_method": "1. In a bowl, mix together the chicken, soy sauce, rice wine, cornstarch, and sugar. Set aside. 2. Heat oil in a wok or large skillet over high heat. 3. Add the dried chili peppers and stir-fry until fragrant. 4. Add the chicken and stir-fry until lightly browned. 5. Add the bell peppers and continue to stir-fry until the chicken is cooked through and the bell peppers are slightly softened. 6. Add the peanuts and stir-fry for another minute. 7. Serve over steamed rice.",
+                "rating": 4.8
+            },
+            {
+                "_rid": 52,
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "1 block of firm tofu, cut into small cubes",
+                    "1/4 pound ground pork",
+                    "2 tablespoons doubanjiang (spicy bean paste)",
+                    "2 cloves garlic, minced",
+                    "2 green onions, chopped"
+                ],
+                "cooking_method": "1. Heat oil in a wok or large skillet over high heat. 2. Add the ground pork and stir-fry until browned. 3. Add the garlic and doubanjiang and stir-fry until fragrant. 4. Add the tofu and stir gently to coat with the sauce. 5. Add water and bring to a simmer. 6. Simmer for 5-7 minutes, until the sauce has thickened slightly and the tofu is heated through. 7. Garnish with chopped green onions and serve over steamed rice.",
+                "rating": 4.6
+            },
+            {
+                "_rid": 53,
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "1 block of firm tofu, cut into small cubes",
+                    "1/4 pound ground pork",
+                    "2 tablespoons doubanjiang (spicy bean paste)",
+                    "2 cloves garlic, minced",
+                    "2 green onions, chopped"
+                ],
+                "cooking_method": "1. Heat oil in a wok or large skillet over high heat. 2. Add the ground pork and stir-fry until browned. 3. Add the garlic and doubanjiang and stir-fry until fragrant. 4. Add the tofu and stir gently to coat with the sauce. 5. Add water and bring to a simmer. 6. Simmer for 5-7 minutes, until the sauce has thickened slightly and the tofu is heated through. 7. Garnish with chopped green onions and serve over steamed rice.",
+                "rating": 4.6
+            },
+            {
+                "_rid": 54,
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups chicken broth",
+                    "1/2 cup bamboo shoots, sliced",
+                    "1/2 cup shiitake mushrooms, sliced",
+                    "1/4 cup rice vinegar",
+                    "1 tablespoon soy sauce"
+                ],
+                "cooking_method": "1. In a large pot, bring the chicken broth to a boil. 2. Add the bamboo shoots and shiitake mushrooms and simmer for 5 minutes. 3. In a small bowl, whisk together the cornstarch and water to make a slurry. 4. Add the slurry to the pot and stir until the soup thickens slightly. 5. Add the rice vinegar, soy sauce, and white pepper. 6. In a small bowl, beat the egg. 7. Slowly pour the beaten egg into the soup while stirring gently. 8. Garnish with chopped green onions and serve hot.",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "_id": 6,
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-woman-cooking-kitchen_23-2149631706.jpg?w=360&t=st=1683062764~exp=1683063364~hmac=e692ebc88d62c6890ecf77a8eeeb213d18b58abbbff71797a7cf9ca61f774a20",
+        "chef_name": "Jakie Cha",
+        "bio": "Jakie Cha is a renowned chef with over 30 years of experience in Sichuan cuisine. He is known for his spicy and flavorful dishes that reflect his roots in Chengdu.",
+        "years_of_experience": 30,
+        "num_recipes": 3,
+        "likes": 18000,
+        "banner_img": "https://img.freepik.com/free-photo/noodles-with-sauce-vegetables-black-background_23-2148123738.jpg?w=740&t=st=1683102389~exp=1683102989~hmac=24d5eaa0cd60a2f9791483f09d919c36aa1dd12e62b951153e649dcab4b5e3ce",
+        "recipes": [
+            {
+                "_rid": 61,
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "2 boneless chicken breasts",
+                    "2 tablespoons vegetable oil",
+                    "1/2 cup roasted peanuts",
+                    "6 dried red chili peppers",
+                    "3 cloves garlic, minced",
+                    "1 teaspoon Sichuan peppercorns",
+                    "2 green onions, chopped"
+                ],
+                "cooking_method": "1. Cut the chicken into small cubes and marinate in a mixture of soy sauce, rice wine, and cornstarch for 30 minutes. 2. Heat the oil in a wok over high heat. Add the chicken and stir-fry until browned. 3. Add the garlic, chili peppers, and Sichuan peppercorns and stir-fry for 1 minute. 4. Add the roasted peanuts and green onions and stir-fry for another minute. 5. Serve hot with rice.",
+                "rating": 4.8
+            },
+            {
+                "_rid": 62,
+                "recipe_name": "Ma Po Tofu",
+                "ingredients": [
+                    "1 block firm tofu",
+                    "2 tablespoons vegetable oil",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon Sichuan bean paste",
+                    "1 tablespoon fermented black beans, rinsed and chopped",
+                    "1 teaspoon Sichuan peppercorns",
+                    "1/2 cup chicken broth"
+                ],
+                "cooking_method": "1. Cut the tofu into small cubes and set aside. 2. Heat the oil in a wok over high heat. Add the garlic, bean paste, black beans, and Sichuan peppercorns and stir-fry for 1 minute. 3. Add the chicken broth and tofu and simmer for 5 minutes. 4. Serve hot with rice.",
+                "rating": 4.9
+            },
+            {
+                "_rid": 63,
+                "recipe_name": "Dan Dan Noodles",
+                "ingredients": [
+                    "8 oz. fresh Chinese noodles",
+                    "2 tablespoons vegetable oil",
+                    "3 cloves garlic, minced",
+                    "1/4 cup ground pork",
+                    "2 tablespoons Sichuan bean paste",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon black vinegar"
+                ],
+                "cooking_method": "1. Cook the noodles according to package instructions and set aside. 2. Heat the oil in a wok over high heat. Add the garlic and stir-fry until fragrant. 3. Add the ground pork and stir-fry until browned. 4. Add the bean paste, soy sauce, and black vinegar and stir-fry for 1 minute. 5. Serve the sauce over the cooked noodles.",
+                "rating": 4.7
+            }
+        ]
+    }
+]
